@@ -1,6 +1,6 @@
 import './style.scss'
 import axios from 'axios';
-const api_key = YOUR_API_KEY;
+const api_key = e07c4738452531016c531f0fe37ad2eb;
 
 
 class WeatherApp {
